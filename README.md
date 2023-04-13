@@ -6,15 +6,13 @@
 
 - 🌱 Actualmente estoy aprendiendo **Python y su framework QT/PySide y SQL**
 
-- 👨‍💻 Todos mis proyectos disponibles en [https://github.com/Nivaniz/Proyectos](https://github.com/Nivaniz/Proyectos)
-
 - 💬 Preguntame sobre... **Bases de Datos!**
 
 - 📫 Puedes contactarme a mi correo **Nirvanabeleng@gmail.com**
 
 - 📄 Acerca de mi Cuento con experiencia en desarrollo web (UI/UX), front-end y en el manejo y enseñanza de las TIC. Apasionada por los lenguajes.
 
-- ⚡ Dato curioso **Me encantan los idiomas, se hablar Español, Inglés, Portugués y estoy aprendiendo Chino Mandarín**
+- ⚡ Dato curioso **Me encantan los idiomas, se hablar Español, Inglés, Portugués y estoy aprendiendo Chino Mandarín **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
