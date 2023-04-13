@@ -1,5 +1,6 @@
 <h1 align="center">Hola, Hello, Oi, 你好 👋 console.log("Soy Nirvana");</h1>
 <h3 align="center">Soy estudiante de la carrera de Ingeniería de Software en la Universidad Autónoma de Querétaro, México. Soy una persona autodidacta, emocionada por aprender e investigar.</h3>
+<h4 align="center"> Para ver sobre mi trabajo puedes entrar a: https://github.com/Nivaniz/Proyectos</h4>
 
 - 🔭 Estoy actualmente trabajando en mi propia web **Nirvana as in Nirvana**
 
