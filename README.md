@@ -3,7 +3,7 @@
 
 - 🔭 Estoy actualmente trabajando en mi propia web **Nirvana as in Nirvana**
 
-- 🌱 Actualmente estoy aprendiendo **Python,QT con Python y SQL**
+- 🌱 Actualmente estoy aprendiendo **Python y su framework QT/PySide y SQL**
 
 - 👨‍💻 Todos mis proyectos disponibles en [https://github.com/Nivaniz/Proyectos](https://github.com/Nivaniz/Proyectos)
 
