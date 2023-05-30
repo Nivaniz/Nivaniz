@@ -1,17 +1,17 @@
 <h1 align="center">Hola, Hello, Oi, 你好👋 console.log("Soy Nirvana");</h1>
-<h3 align="center">Soy estudiante de la carrera de Ingeniería de Software en la Universidad Autónoma de Querétaro, México. Soy una persona autodidacta, emocionada por aprender e investigar.</h3>
+<h3 align="center">Soy una mexicana apasionada por crear y diseñar experiencias digitales significativas. Actualmente, soy estudiante de Ingeniería de Software en la Universidad Autónoma de Querétaro, México.</h3>
 
-- 👨‍💻 Todos mis proyectos dispnibles en [Nirvana as in Nirvana](https://codingwithnirvana.pythonanywhere.com)
+- 👨‍💻 Todos mis proyectos disponibles en mi Página Web [Nirvana as in Nirvana](https://codingwithnirvana.pythonanywhere.com)
 
 - 🌱 Actualmente estoy aprendiendo **Python y su framework QT/PySide y MongoDB**
 
 - 🔭 Estoy actualmente trabajando en mi propia web **Web Empresarial**
 
-- 👨‍💻 Todos mis proyectos disponibles en [https://github.com/Nivaniz/Proyectos](https://github.com/Nivaniz/Proyectos)
+- 👨‍💻 Todos el código de mis proyectos disponibles en [https://github.com/Nivaniz/Proyectos](https://github.com/Nivaniz/Proyectos)
 
 - 📫 Puedes contactarme a mi correo **Nirvanabeleng@gmail.com**
 
-- 📄 Acerca de mi [Cuento con experiencia en desarrollo web (UI/UX), front-end y en el manejo y enseñanza de las TIC. Apasionada por los lenguajes.](Cuento con experiencia en desarrollo web (UI/UX), front-end y en el manejo y enseñanza de las TIC. Apasionada por los lenguajes.)
+- 📄 Acerca de mi [Cuento con experiencia en desarrollo (UI/UX), front-end y algo de back-end además de el manejo y enseñanza de las TIC. Apasionada por los lenguajes.]
 
 - ⚡ Dato curioso **Me encantan los idiomas, se hablar Español, Inglés, Portugués y estoy aprendiendo Chino Mandarín**
 
