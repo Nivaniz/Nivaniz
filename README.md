@@ -3,7 +3,7 @@
 
 - 👨‍💻 Todos mis proyectos disponibles en mi Página Web [Nirvana as in Nirvana](https://codingwithnirvana.pythonanywhere.com)
 
-- 🌱 Actualmente estoy aprendiendo **Python y su framework QT/PySide y MongoDB**
+- 🌱 Actualmente estoy aprendiendo **Python y su framework QT/PySide y Django**
 
 - 🔭 Estoy actualmente trabajando en mi propia web **Web Empresarial**
 
