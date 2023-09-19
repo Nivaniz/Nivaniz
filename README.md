@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Python y su framework QT/PySide y Django**
 
-- 🔭 Estoy actualmente trabajando en mi propia web **Web Empresarial**
+- 🔭 Estoy actualmente trabajando en mi **Web Playground**
 
 - 👨‍💻 Todos el código de mis proyectos disponibles en [https://github.com/Nivaniz/Proyectos](https://github.com/Nivaniz/Proyectos)
 
@@ -18,7 +18,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nirvanabelen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirvanabelen/" height="30" width="40" /></a>
-<a href="https://dribbble.com/nivaniz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="nivaniz" height="30" width="40" /></a>
 <a href="https://www.behance.net/nirvanabeln" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nirvanabeln" height="30" width="40" /></a>
 </p>
 
