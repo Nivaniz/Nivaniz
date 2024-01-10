@@ -4,7 +4,7 @@
 
 <h3 align="center">Soy una mexicana apasionada por crear y diseñar experiencias digitales significativas. Actualmente, soy estudiante de Ingeniería de Software en la Universidad Autónoma de Querétaro, México.</h3>
 
-- 👨‍💻 Todos mis proyectos disponibles en mi Página Web [Nirvana as in Nirvana](https://codingwithnirvana.pythonanywhere.com)
+- 👨‍💻 Todos mis proyectos disponibles en mi Página Web [Nirvana as in Nirvana](https://codingnirvana.pythonanywhere.com)
 
 - 🌱 Actualmente estoy aprendiendo **Python (Django) y Algoritmos**
 
